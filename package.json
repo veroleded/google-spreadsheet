@@ -1,0 +1,21 @@
+{
+  "name": "googlesheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/google-spreadsheet": "^3.3.2",
+    "dotenv": "^16.0.3",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^118.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
